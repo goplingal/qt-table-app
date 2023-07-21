@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>IMG/bin.png</file>
+        <file>IMG/zxc.png</file>
+        <file>IMG/save.png</file>
+        <file>IMG/new.png</file>
+        <file>IMG/save2.png</file>
+        <file>IMG/merge.png</file>
+        <file>IMG/sv.png</file>
+        <file>IMG/add.png</file>
+        <file>IMG/cha.png</file>
+        <file>IMG/file.png</file>
+        <file>IMG/exit.png</file>
+    </qresource>
+</RCC>
